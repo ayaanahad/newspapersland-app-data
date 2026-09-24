@@ -1,1 +1,15 @@
-{"min_version":1,"force_update":false,"maintenance":false,"maintenance_message":"","notice":"","ads_enabled":false,"ad_units":{},"hidden_papers":[],"article_extract":{"enabled":true,"min_chars":400,"selectors":{}}}
+{
+    "min_version": 1,
+    "force_update": false,
+    "maintenance": false,
+    "maintenance_message": "",
+    "notice": "",
+    "ads_enabled": false,
+    "ad_units": {},
+    "hidden_papers": [],
+    "article_extract": {
+        "enabled": true,
+        "min_chars": 400,
+        "selectors": {}
+    }
+}
