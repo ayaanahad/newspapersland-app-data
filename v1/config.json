@@ -1,6 +1,6 @@
 {
-    "min_version": 1,
-    "force_update": false,
+    "min_version": 99,
+    "force_update": true,
     "maintenance": false,
     "maintenance_message": "",
     "notice": "",
